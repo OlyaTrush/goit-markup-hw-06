@@ -960,11 +960,6 @@ background-color: var(--native-color);
 border-radius: 2px;
 }
 
-.check-svg{
-  padding-left: 1px;
-  padding-top: 1px;
-}
-
 .modal-submit{
  margin: 0 auto;
   display: block;
